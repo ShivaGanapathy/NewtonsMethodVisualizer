@@ -1,5 +1,9 @@
 # NewtonsMethodVisualizer
 This python program is used to simulate Newton's Method. This is a process in calculus in which the solution of a function can be approximated. The python program uses matplotlib to visualize and graph the data.
+
+![](example.PNG)
+
+
 # Steps to Newton's Method
 1) Provide an Estimation
 
